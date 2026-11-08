@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bikeConnect-rescue)(type Legacy)(uri ${KIPRJMOD}/bikeConnect-rescue.lib)(options "")(descr ""))
+)
